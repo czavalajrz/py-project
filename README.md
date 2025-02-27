@@ -1,5 +1,6 @@
-# Game project
+# Steps
 
+## Game Proyect
 To run the game follow the instructions on terminal:
 
 ```sh
